@@ -24,7 +24,8 @@ This repository encapsulates the meticulous data cleaning and preparation of a F
 
 -	`fifa21_raw_data.csv` - Dataset from Kaggle.
 -	`Cleansed FIFA 21 Playes.xlsx` - Cleansed and ready for analysis and visualizing data.
--	` Cleaning Process.xlsx` - All formula and cleaning process I did
+-	` Cleaning Process.xlsx` - All formula and cleaning process I did.
+-	`README.md` - This file.
 
 
 ## Data Source:
