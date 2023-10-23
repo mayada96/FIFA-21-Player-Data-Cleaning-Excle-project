@@ -1,4 +1,4 @@
-FIFA 21 Player Dataset `Cleaning with Excel` Project 
+# FIFA 21 Player Dataset `Cleaning with Excel` Project 
 
 ## Project Overview:
 
@@ -6,19 +6,19 @@ This repository encapsulates the meticulous data cleaning and preparation of a F
 
 ## Data Cleaning Steps:
 
-1. **Eliminating Unnecessary Columns**: Irrelevant columns were pruned from the dataset to enhance its clarity and focus on essential information.
+- **Eliminating Unnecessary Columns**: Irrelevant columns were pruned from the dataset to enhance its clarity and focus on essential information.
 
-2. **Column Naming**: All relevant columns were given descriptive and suitable names to improve data comprehension and analysis.
+- **Column Naming**: All relevant columns were given descriptive and suitable names to improve data comprehension and analysis.
 
-3. **Height and Weight Formatting**: The 'Height' and 'Weight' columns underwent formatting to ensure consistent representation and were converted into numeric formats for robust analysis.
+- **Height and Weight Formatting**: The 'Height' and 'Weight' columns underwent formatting to ensure consistent representation and were converted into numeric formats for robust analysis.
 
-4. **Date of Join Formatting**: The 'Joined' column was converted into the appropriate date format, and new columns were added to extract the year and month of joining. Additionally, an extra column was created to calculate the number of years each player has participated.
+- **Date of Join Formatting**: The 'Joined' column was converted into the appropriate date format, and new columns were added to extract the year and month of joining. Additionally, an extra column was created to calculate the number of years each player has participated.
 
-5. **Value, Wage, and Release Clause Cleansing**: These columns were meticulously cleaned by removing any unnecessary newline characters and transforming the values into numeric formats, rendering them suitable for precise analysis.
+- **Value, Wage, and Release Clause Cleansing**: These columns were meticulously cleaned by removing any unnecessary newline characters and transforming the values into numeric formats, rendering them suitable for precise analysis.
 
-6. **Newline Character Stripping**: In columns such as 'W/F,' 'SM,' and 'IR,' extraneous newline characters were stripped, enhancing data consistency and clarity.
+- **Newline Character Stripping**: In columns such as 'W/F,' 'SM,' and 'IR,' extraneous newline characters were stripped, enhancing data consistency and clarity.
 
-7. **Hits Column Transformation**: The 'Hits' column was transformed to retain only numeric values, ensuring its compatibility for analysis.
+- **Hits Column Transformation**: The 'Hits' column was transformed to retain only numeric values, ensuring its compatibility for analysis.
 
 ## Project Files:
 
